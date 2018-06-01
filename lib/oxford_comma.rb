@@ -1,3 +1,5 @@
 def oxford_comma(array)
-  case array.validates_length_of
+  case array.length
+  when 2
+    
 end
