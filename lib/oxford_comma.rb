@@ -1,5 +1,3 @@
 def oxford_comma(array)
-  if array.length == 2
-    
-  array.join(",")
+  case array.validates_length_of
 end
